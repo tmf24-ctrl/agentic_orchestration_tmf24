@@ -1,0 +1,16 @@
+Website Screenshot Analysis
+URL: https://en.wikipedia.org
+Title: Wikipedia, the free encyclopedia
+Description: No description
+Captured: 2026-02-12T19:43:23.449Z
+Viewport: 1920x1080
+Full Page: false
+Screenshot Size: 1920x1080px
+Screenshot File: C:\workspace\cli-ai-toolkit\images\1770925386863-screenshot-en.wikipedia.org.png
+======================================================================
+
+DESIGN FEEDBACK FROM GEMINI:
+
+Could not extract feedback from Gemini response (no text found).
+
+======================================================================

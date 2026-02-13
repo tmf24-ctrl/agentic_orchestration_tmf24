@@ -1,0 +1,5 @@
+Prompt: Vintage retro arcade neon sign, 1980s pixel art aesthetic, glowing pink and blue colors, dark background
+Model: gpt-image-1
+
+Files:
+C:\workspace\cli-ai-toolkit\images\1770323545089-vintage-retro-arcade-neon-sign-1980s-pixel-art-aes-1.png

@@ -1,0 +1,5 @@
+Prompt: A vibrant fantasy landscape with floating islands and bioluminescent plants, Studio Ghibli style, volumetric lighting
+Model: gpt-image-1
+
+Files:
+C:\workspace\cli-ai-toolkit\images\1770323460895-a-vibrant-fantasy-landscape-with-floating-islands--1.png

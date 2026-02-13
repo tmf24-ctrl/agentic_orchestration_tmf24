@@ -1,0 +1,5 @@
+Prompt: Book cover: two college-aged sorority girls photographed from behind, backs to camera, 2D cartoon illustration style, one with short pixie cut brown hair wearing cashmere sweater, the other with long flowing blonde hair wearing crop top, standing together in front of a sorority house or elegant interior, warm golden hour lighting, confident pose, no text, no words, animated illustration
+Model: gpt-image-1
+
+Files:
+C:\workspace\cli-ai-toolkit\images\1770323761801-book-cover-two-college-aged-sorority-girls-photogr-1.png

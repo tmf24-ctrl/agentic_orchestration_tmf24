@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CLI AI Toolkit - Web Interface</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <h1>🚀 CLI AI Toolkit</h1>
+                <p>Powerful AI tools in your browser</p>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main">
+            <!-- Command Selector -->
+            <section class="command-selector">
+                <h2>Select a Tool</h2>
+                <div class="command-buttons" id="commandButtons">
+                    <button class="cmd-btn" data-command="hello" title="Test message">
+                        <span class="icon">👋</span>
+                        <span class="label">Hello</span>
+                    </button>
+                </div>
+            </section>
+
+            <!-- Command Options -->
+            <section class="command-options">
+                <h2>Command Options</h2>
+                
+                <!-- Input Section -->
+                <div class="input-section">
+                    <div id="inputFields"></div>
+                    <button class="execute-btn" id="executeBtn">Execute Command</button>
+                </div>
+
+                <!-- Status -->
+                <div id="status" class="status hidden"></div>
+
+                <!-- Output Section -->
+                <div id="output" class="output hidden">
+                    <h3>Result</h3>
+                    <pre id="outputContent"></pre>
+                </div>
+            </section>
+
+            <!-- Files Section -->
+            <section class="files-section">
+                <h2>Generated Outputs</h2>
+                
+                <div class="tabs">
+                    <button class="tab-btn active" data-tab="images">
+                        🖼️ Images (<span id="imageCount">0</span>)
+                    </button>
+                    <button class="tab-btn" data-tab="references">
+                        📄 References (<span id="refCount">0</span>)
+                    </button>
+                </div>
+
+                <div class="tab-content">
+                    <div id="images-tab" class="tab-panel active">
+                        <div id="imagesList" class="files-grid"></div>
+                    </div>
+                    <div id="references-tab" class="tab-panel">
+                        <div id="referencesList" class="files-list"></div>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>CLI AI Toolkit © 2026 | Built with Node.js, Express, and AI APIs</p>
+        </footer>
+    </div>
+
+    <!-- Image Preview Modal -->
+    <div id="imageModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <img id="modalImage" src="" alt="Preview">
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

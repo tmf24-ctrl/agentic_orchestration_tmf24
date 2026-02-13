@@ -1,0 +1,1 @@
+Gemini integration placeholder. See docs/Gemini3.md for upload instructions. Uploaded file: 1770322660737-test_upload.txt

@@ -1,0 +1,2 @@
+Gemini inline call failed: Request failed with status code 404
+See docs/Gemini3.md for setup.

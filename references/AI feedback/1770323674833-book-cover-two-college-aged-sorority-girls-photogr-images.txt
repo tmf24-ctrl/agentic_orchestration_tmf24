@@ -1,0 +1,5 @@
+Prompt: Book cover: two college-aged sorority girls photographed from behind, backs to camera, one with short pixie cut brown hair wearing cashmere sweater, the other with long flowing blonde hair wearing crop top, standing together in front of a sorority house or elegant interior, professional editorial photography, warm golden hour lighting, high fashion, confident pose
+Model: gpt-image-1
+
+Files:
+C:\workspace\cli-ai-toolkit\images\1770323674833-book-cover-two-college-aged-sorority-girls-photogr-1.png

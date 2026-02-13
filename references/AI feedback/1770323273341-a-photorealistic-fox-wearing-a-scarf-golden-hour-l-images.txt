@@ -1,0 +1,5 @@
+Prompt: A photorealistic fox wearing a scarf, golden hour lighting, 85mm portrait
+Model: gpt-image-1
+
+Files:
+C:\workspace\cli-ai-toolkit\images\1770323273341-a-photorealistic-fox-wearing-a-scarf-golden-hour-l-1.png

@@ -1,0 +1,16 @@
+Website Screenshot Analysis
+URL: https://example.com
+Title: Example Domain
+Description: No description
+Captured: 2026-02-12T19:28:37.903Z
+Viewport: 1920x1080
+Full Page: false
+Screenshot Size: 1920x1080px
+Screenshot File: C:\workspace\cli-ai-toolkit\images\1770924498716-screenshot-example.com.png
+======================================================================
+
+DESIGN FEEDBACK FROM GEMINI:
+
+Could not extract feedback from Gemini response.
+
+======================================================================

@@ -1,0 +1,5 @@
+Prompt: Minimalist modern architecture, white concrete building with floor-to-ceiling windows, daytime, clear sky, professional product photography
+Model: gpt-image-1
+
+Files:
+C:\workspace\cli-ai-toolkit\images\1770323507140-minimalist-modern-architecture-white-concrete-buil-1.png
